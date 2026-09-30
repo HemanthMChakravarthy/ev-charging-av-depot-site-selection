@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas
+matplotlib>=3.8
+streamlit
+streamlit-folium
+folium
+geopandas
+osmnx
+scikit-learn
+shapely
+jupyter
+nbconvert
+nbformat
+pyarrow
