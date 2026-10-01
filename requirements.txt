@@ -1,8 +1,9 @@
 numpy==1.26.4
 pandas
 matplotlib>=3.8
-streamlit
+streamlit>=1.28
 streamlit-folium
+streamlit-aggrid
 folium
 geopandas
 osmnx
@@ -12,3 +13,7 @@ jupyter
 nbconvert
 nbformat
 pyarrow
+plotly>=5.0
+openpyxl
+pydantic>=2.0
+python-dateutil
